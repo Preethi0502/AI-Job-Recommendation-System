@@ -1,29 +1,71 @@
-# AI-Job-Recommendation-System
+# **AI-Powered Job Recommendation System with NLP and Flask Integration**
 
-This project employs Machine Learning (ML) and Natural Language Processing (NLP) techniques to construct a job recommendation system based on skill similarity. The model is developed using Python and several popular libraries.
+## **About**
+A cutting-edge platform leveraging Machine Learning (ML) and Natural Language Processing (NLP) to deliver personalized job recommendations based on user skills and job descriptions. The system accelerates the job search process and enhances job matching accuracy, making it easier for users to find roles suited to their expertise.
 
-## Features:
+## **Description**
+This project utilizes advanced ML and NLP techniques to analyze user skills and match them with relevant job opportunities based on skill similarity. It features an intuitive user interface built with Flask, ensuring seamless interaction for users.
 
-Skill analysis of users based on job descriptions.
-Calculation of skill similarity to recommend relevant job offers.
-Simple user interface via a Flask web application.
+## **Table of Contents**
+1. [Features](#features)
+2. [Tools and Technologies Used](#tools-and-technologies-used)
+3. [Configuration and Installation](#configuration-and-installation)
+4. [Usage Instructions](#usage-instructions)
+5. [Screenshots or Demo](#screenshots-or-demo)
+6. [Future Scope](#future-scope)
+7. [Known Issues](#known-issues)
+8. [Contact](#contact)
 
-## Tools Used:
+## **Features**
+- **Skill Analysis**: Extracts and analyzes user skills based on job descriptions.
+- **Skill Similarity Calculation**: Matches users with the most relevant job offers.
+- **User Interface**: Simplified and efficient interaction via a Flask web application.
 
-- **Python:** Primary programming language.
-- **Flask:** Web framework for the user interface.
-- **BeautifulSoup:** Data extraction from web pages.
-- **MongoDB:** Data storage.
-- **Spacy:** Natural Language Processing.
-- **Scikit-learn:** Machine learning library..
-- **JSON:** Data format.
-- **Matplotlib:** Data visualization.
+## **Tools and Technologies Used**
+- **Programming Language**: Python
+- **Web Framework**: Flask
+- **Data Storage**: MongoDB
+- **Libraries**:
+  - **BeautifulSoup**: For web scraping and data extraction.
+  - **Spacy**: For advanced NLP tasks.
+  - **Scikit-learn**: For model training and evaluation.
+  - **Matplotlib**: For visualizing data insights.
+- **Data Formats**: JSON
+
+## **Configuration and Installation**
+
+### Prerequisites
+- Ensure Python is installed.
+- Install dependencies by running:
+   - pip install -r requirements.txt
+**Database Configuration**
+Set MongoDB connection parameters in the config.py file.
+**Model Training**
+Execute the model training script:
+python training.py
+**Web Application Launch**
+Start the Flask web application:
+python app.py
+
+## Usage Instructions
+- Open the application in your browser after running the Flask server.
+- Upload or input your skills and job descriptions.
+- View the recommended job roles based on skill similarity analysis.
   
-## Configuration and Installation:
+## Screenshots or Demo
+Include relevant screenshots of the application interface or a demo link here.
 
-1. **Prerequisites:** Ensure Python is installed. Install dependencies by running `pip install -r requirements.txt`.
-2. **Database Configuration:** Set MongoDB connection parameters in the `config.py` file.
-3. **Model Training:** Execute the model training script with python `training.py`.
-4. **Web Application Launch:** Start the Flask web application with python `app.py`.
-
-
+## Future Scope
+- **Improved Recommendation Models**: Incorporate deep learning techniques for enhanced accuracy.
+- **Expanded Data Sources**: Integrate multiple job portals for a wider dataset.
+- **User Account Management**: Enable user profiles for saving preferences and tracking applications.
+  
+## Known Issues
+- Limited support for non-English job descriptions.
+- Dependency on accurate skill extraction from job descriptions.
+  
+## Contact
+- For questions, issues, or contributions, reach out via GitHub Issues or contact:
+- **Name**: Preethi.A
+- **Email**: preethi522002@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/preethi522/
