@@ -36,7 +36,7 @@ This project utilizes advanced ML and NLP techniques to analyze user skills and 
 ### Prerequisites
     - Ensure Python is installed.
     - Install dependencies by running
-       ```pip install -r requirements.txt```
+       `pip install -r requirements.txt`
 ### Database Configuration
     - Set MongoDB connection parameters in the config.py file.
 ### Model Training
