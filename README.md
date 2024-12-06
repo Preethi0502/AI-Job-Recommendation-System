@@ -37,12 +37,12 @@ This project utilizes advanced ML and NLP techniques to analyze user skills and 
 - Ensure Python is installed.
 - Install dependencies by running: pip install -r requirements.txt
 
-**Database Configuration**
-- Set MongoDB connection parameters in the config.py file.
-**Model Training**
-- Execute the model training script: python training.py
-**Web Application Launch**
-- Start the Flask web application: python app.py
+-**Database Configuration**
+   - Set MongoDB connection parameters in the config.py file.
+-**Model Training**
+   - Execute the model training script: python training.py
+-**Web Application Launch**
+   - Start the Flask web application: python app.py
 
 ## Usage Instructions
 - Open the application in your browser after running the Flask server.
@@ -60,6 +60,6 @@ This project utilizes advanced ML and NLP techniques to analyze user skills and 
   
 ## Contact
 - For questions, issues, or contributions, reach out via GitHub Issues or contact:
-- **Name**: Preethi.A
-- **Email**: preethi522002@gmail.com
-- **LinkedIn**: https://www.linkedin.com/in/preethi522/
+   - **Name**: Preethi.A
+   - **Email**: preethi522002@gmail.com
+   - **LinkedIn**: https://www.linkedin.com/in/preethi522/
