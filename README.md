@@ -1,4 +1,4 @@
-# **AI-Powered Job Recommendation System with NLP and Flask Integration**
+# AI-POWERED JOB RECOMMENDATION SYSTEM WITH NLP AND FLASK INTEGRATION
 
 ## **About**
 A cutting-edge platform leveraging Machine Learning (ML) and Natural Language Processing (NLP) to deliver personalized job recommendations based on user skills and job descriptions. The system accelerates the job search process and enhances job matching accuracy, making it easier for users to find roles suited to their expertise.
