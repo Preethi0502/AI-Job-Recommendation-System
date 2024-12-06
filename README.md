@@ -1,4 +1,4 @@
-# Job Recommendation System
+# AI-Job-Recommendation-System
 
 This project employs Machine Learning (ML) and Natural Language Processing (NLP) techniques to construct a job recommendation system based on skill similarity. The model is developed using Python and several popular libraries.
 
