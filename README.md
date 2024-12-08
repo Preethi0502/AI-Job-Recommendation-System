@@ -3,6 +3,17 @@
 ## About
 A cutting-edge platform leveraging Machine Learning (ML) and Natural Language Processing (NLP) to deliver personalized job recommendations based on user skills and job descriptions. The system accelerates the job search process and enhances job matching accuracy, making it easier for users to find roles suited to their expertise.
 
+## Attribution  
+This project is inspired by the original work of [Chaimae Bouyarmane](https://github.com/chaimaebouyarmane/Job-Recommendation-System-ML-NLP). All efforts have been made to respect and credit the original contribution while expanding upon it with additional features and functionality.  
+Original repository: [Job-Recommendation-System-ML-NLP](https://github.com/chaimaebouyarmane/Job-Recommendation-System-ML-NLP).  
+
+### Contributions  
+The following modifications and enhancements were made to build upon the original project:  
+- Integrated Flask to provide a user-friendly and interactive web interface.  
+- Improved job matching accuracy through refined algorithms for skill similarity calculations.  
+- Enhanced documentation to make the project more accessible and user-oriented.  
+- Added customized features tailored to specific user requirements and use cases.  
+
 ## Description
 This project utilizes advanced ML and NLP techniques to analyze user skills and match them with relevant job opportunities based on skill similarity. It features an intuitive user interface built with Flask, ensuring seamless interaction for users.
 
